@@ -35,7 +35,7 @@
 
       <div class="tableau-wrapper">
         <tableau-viz
-          src="https://public.tableau.com/views/Custumer_Support_Example/Blatt1"
+          src="https://public.tableau.com/views/Custumer_Support_Example/Blatt1?:showVizHome=no"
           toolbar="bottom"
           hide-tabs
         ></tableau-viz>
